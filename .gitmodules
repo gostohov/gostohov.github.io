@@ -7,3 +7,6 @@
 [submodule "pig_game"]
 	path = pig_game
 	url = https://github.com/gostohov/pig_game
+[submodule "project"]
+	path = project
+	url = https://github.com/gostohov/project.git
