@@ -1,0 +1,12 @@
+[submodule "budgety"]
+	path = budgety
+	url = https://github.com/gostohov/budgety
+[submodule "monster__slayer"]
+	path = monster__slayer
+	url = https://github.com/gostohov/monster__slayer
+[submodule "pig_game"]
+	path = pig_game
+	url = https://github.com/gostohov/pig_game
+[submodule "project"]
+	path = project
+	url = https://github.com/gostohov/project.git
